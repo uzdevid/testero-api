@@ -20,5 +20,3 @@ composer.phar
 
 #vagrant folder
 /.vagrant
-
-.env
